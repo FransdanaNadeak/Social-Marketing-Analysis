@@ -1,5 +1,5 @@
 
-#Twitter-US-Airline-Sentiment
+Twitter-US-Airline-Sentiment
 -----------------------------
 In this project, we will analyze the dataset from Kaggle (https://www.kaggle.com/crowdflower/twitter-airline-sentiment) which contains 14,640 tweets posted in February 2015. 
 
